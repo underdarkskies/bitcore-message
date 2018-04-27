@@ -1,18 +1,18 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "ravencore-message",
+  "main": "./ravencore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/underdarkskies/ravencore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Ravencoin Message Verification and Signing for ravencore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
+    "ravencoin",
+    "ravencore",
     "btc",
     "satoshi",
     "message",

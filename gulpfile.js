@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var bitcoreTasks = require('bitcore-build');
+var ravencoreTasks = require('ravencore-build');
 
-bitcoreTasks('message');
+ravencoreTasks('message');
 
 gulp.task('default', ['lint', 'coverage']);

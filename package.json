@@ -23,9 +23,9 @@
     "url": "https://github.com/underdarkskies/ravencore-message.git"
   },
   "dependencies": {
+    "ravencore-lib": "underdarkskies/ravencore-lib"
   },
   "peerDependencies": {
-    "ravencore-lib": "underdarkskies/ravencore-lib"
   },
   "devDependencies": {
     "ravencore-build": "underdarkskies/ravencore-build",

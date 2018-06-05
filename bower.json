@@ -1,7 +1,7 @@
 {
   "name": "ravencore-message",
   "main": "./ravencore-message.min.js",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "homepage": "https://github.com/underdarkskies/ravencore-message",
   "authors": [
     "BitPay"

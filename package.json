@@ -1,6 +1,6 @@
 {
   "name": "ravencore-message",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Ravencoin Messages for Ravencore",
   "author": "Under",
   "main": "index.js",

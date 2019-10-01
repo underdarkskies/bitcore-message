@@ -23,7 +23,7 @@
     "url": "https://github.com/underdarkskies/ravencore-message.git"
   },
   "dependencies": {
-    "ravencore-lib": "underdarkskies/ravencore-lib#assets"
+    "ravencore-lib": "underdarkskies/ravencore-lib#master-assets"
   },
   "peerDependencies": {
   },
